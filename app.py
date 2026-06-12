@@ -13,4 +13,3 @@ st.write(f"Selected age: {age}")
 if st.button("Celebrate"):
     st.balloons()
     st.success("🎉 Celebration time!")
-    
